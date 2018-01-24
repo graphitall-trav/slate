@@ -498,6 +498,7 @@ This endpoint retrieves all company deals.
 Parameter | Default | Description
 --------- | ------- | -----------
 ids | [] | If set to array of IDs, will return specific company deals requested
+last_updated_at | "" | String date in "YYYY-MM-DD" format will return company deals updated on given date
 limit | 20 | Limit of company deals returned for each request
 
 <aside class="success">
