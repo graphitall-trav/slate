@@ -21,7 +21,7 @@ search: true
 
 Welcome to the TraverseIQ API! You can use our API to access TraverseIQ API endpoints, which can get information on private companies, investor preference and firm data, capital markets deals, and related professionals in our database.
 
-Our RESTful API is easy to use across Shell, Ruby, PHP, Javascript and Python. You can view code examples in the dark area to the right, and you can switch the programming language of the examples with the tabs in the top right.
+Our RESTful API is easy to use across Shell, Ruby, PHP, Javascript, and Python. You can view code examples in the dark area to the right, and you can switch the programming language of the examples with the tabs in the top right.
 
 # Authentication
 
