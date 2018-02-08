@@ -263,6 +263,44 @@ curl_close($ch);
         "stat_as_of_date": "2016-08-01"
       }
     ],
+    "similar_companies": [
+      {
+        "score":0.680977112334716,
+        "self":"https://traverseiq.com/api/v1/companies/4265",
+        "name":"Lyft",
+        "tags":[
+          "mobile app","freight, logistics & transportation","sharing economy / collaborative consumption","crowd-sourcing","consumer services","peer-to-peer technology (P2P)","transportation apps","car sharing","technology"
+        ],
+        "description":"Lyft is a mobile app for friendly, affordable rides at the tap of a button."
+      },
+      {
+        "score":0.663174383134928,
+        "self":"https://traverseiq.com/api/v1/companies/53550",
+        "name":"Turo",
+        "tags":[
+          "online marketplace","travel services","travel","sharing economy / collaborative consumption","consumer services","transportation apps","automotive aftermarket","car sharing","technology","car rentals"
+        ],
+        "description":"Turo is a car sharing marketplace where local car owners provide travelers with the perfect vehicle for their next adventure. Travelers from around the world choose from a unique selection of cars and car owners earn extra money while helping fuel their adventures. A pioneer of the sharing economy and travel industry, Turo is a safe, supportive community where the car you rent is part of a story, not a fleet. Whether it's an F-150 truck to help out on moving day, a Tesla for a luxurious weekend away, or a classic Mercedes-Benz for a picture-perfect road trip, travelers rent the car and own the adventure."
+      },
+      {
+        "score":0.597646606434268,
+        "self":"https://traverseiq.com/api/v1/companies/74389",
+        "name":"GetTransfer Limited",
+        "tags":[
+          "online marketplace","travel services","travel","consumer services","booking software","technology","travel technology","car rentals","chauffeurs"
+        ],
+        "description":"GetTransfer Limited is an online marketplace for pre-booked long distance transfers in Europe and US. GetTransfer.com is an online platform for pre-booked transfers and car rental with driver. The service operates worldwide."
+      },
+      {
+        "score":0.566962900849199,
+        "self":"https://traverseiq.com/api/v1/companies/52555",
+        "name":"Skurt",
+        "tags":[
+          "mobile app","cars & automotives","travel services","travel","transportation apps","delivery software","technology","car rentals"
+        ],
+        "description":"Skurt is a Los Angeles, CA-based rental car delivery startup. Skurt gives people the opportunity to have a car delivered to their hotel, home, office, or anywhere else they are via iOS and Android apps."
+      }
+    ],
     "target_company_people": [
       {
         "name": "Vicente Pascual",
