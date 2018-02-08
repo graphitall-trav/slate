@@ -490,6 +490,7 @@ target_company_description | String | Description of target company
 target_company_tags | Array | Industry Tags of target company
 custom_client_industries | Object | Unique confidential industry tags/codes customizable for each API account
 target_company_stats | Array | Stats of target company (e.g. employees, revenue, growth %)
+similar_companies | Array | Similar companies to target company and similarity scores)
 target_company_people | Array | Employees/Related professionals of target company
 additional_entity_info | Array | Additional information for associated entity objects above
 as_of_dates | Array | As of dates for fields above
